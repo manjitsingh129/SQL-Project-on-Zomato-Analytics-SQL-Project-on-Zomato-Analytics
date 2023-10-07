@@ -1,2 +1,3 @@
-# SQL-Project-on-Zomato-Analytics-SQL-Project-on-Zomato-Analytics
-SQL project
+# SQL-Project-on-Zomato-Analytics
+SQL project for profile portfolio
+PostGreSQL15
